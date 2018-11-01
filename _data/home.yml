@@ -49,18 +49,18 @@ portfolio:
 
 team:
   heading: Our Team
-  subheading: 18+ years of agreggated experience in Banking!.
+  subheading: 18+ years of agreggated experience in Banking!
   members:
-    - name: Kay Garland
-      role: Lead Designer
-      img: img/team/1.jpg
+    - name: Brendan Regan
+      role: CEO
+      img: img/team/brendan.jpeg
       social-buttons:
-        - icon: fa fa-twitter
-          url: "#" 
-        - icon: fa fa-facebook
-          url: "#"
+        # - icon: fa fa-twitter
+        #   url: "#" 
+        # - icon: fa fa-facebook
+        #   url: "#"
         - icon: fa fa-linkedin
-          url: "#"
+          url: https://www.linkedin.com/in/brendan-regan-9b6b3314/?originalSubdomain=uk
         
     # - name: Larry Parker
     #   role: Lead Marketer
@@ -73,18 +73,18 @@ team:
     #     - icon: fa fa-linkedin
     #       url: "#"
 
-    - name: Diana Pertersen
-      role: Lead Developer
-      img: img/team/3.jpg
+    - name: Charis Sfyrakis
+      role: CTO
+      img: img/team/charis.png
       social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
+        # - icon: fa fa-twitter
+        #   url: "#"
+        # - icon: fa fa-facebook
+        #   url: "#"
         - icon: fa fa-linkedin
-          url: "#"
+          url: https://www.linkedin.com/in/charissfyrakis/
 
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  text: At the start of 2018 a major piece of European legislation was rolled out across the continent requiring the legacy banking community to open their vaults long hidden account holder data to third parties, when permissioned. This major milestone has provided the spark to bring about a wave of fundamental change to how we use our bank accounts on a day to day basis. This is something that has not gone unnoticed at EFpay. We envision a world free of plastic, not only for the sake of our planet’s well-being, but also for the sake of your financial well-being. EFpay will enable you to pay for everything from electricity to flights and even your next coffee, directly from your own bank account. Our technology connects to the public bank API’s introduced this year in the UK and Europe, enabling instant payments between consumer account and that of the merchant. EFpay is not only simple to use, but it greatly reduces fraud risks, as no card details are needed or shared. The icing on the EFpay cake is the elimination of unnecessary and excessive “processing fees” that have been taken for granted for so long from the likes of Visa/Mastercard. For merchants who accept EFpay “processing fees” will become a legacy of the past..
 
 clients:
   - img: img/logos/envato.jpg
@@ -98,7 +98,7 @@ clients:
 
 contact:
   heading: Contact Us
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Please fill in your details.
   name: Your Name *
   name-required: Please enter your name.
   email: Your Email *
