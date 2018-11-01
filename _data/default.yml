@@ -1,34 +1,34 @@
 brand:
-  name: Start Bootstrap
+  name: EfPay
 menu-string: Menu
 
 nav:
   - title: Services
     url: '#services'
-  - title: Portfolio
-    url: '#portfolio'
-  - title: About
-    url: '#about'
+  # - title: Portfolio
+  #   url: '#portfolio'
+  # - title: About
+  #   url: '#about'
   - title: Team
     url: '#team'
   - title: Contact
     url: '#contact'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright &copy; EFPay 2018
 
-social-buttons:
-  - icon: fa fa-twitter
-    url: '#' 
-  - icon: fa fa-facebook
-    url: '#'
-  - icon: fa fa-linkedin
-    url: '#'
+# social-buttons:
+#   - icon: fa fa-twitter
+#     url: '#' 
+#   - icon: fa fa-facebook
+#     url: '#'
+#   - icon: fa fa-linkedin
+#     url: '#'
 
-quicklinks:
-  - title: Privacy Policy
-    url: '#'
-  - title: Terms of Use
-    url: '#'
+# quicklinks:
+#   - title: Privacy Policy
+#     url: '#'
+#   - title: Terms of Use
+#     url: '#'
 
 modal:
   date-string: 'Date: '

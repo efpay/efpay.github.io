@@ -10,9 +10,10 @@ layout: default
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">{{ site.data.home.intro.lead-in }}</div>
           <div class="intro-heading text-uppercase">{{ site.data.home.intro.heading }}</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">{{ site.data.home.intro.btn }}</a>
+          <div class="intro-lead-in">{{ site.data.home.intro.subheading }}</div>
+
+          <!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">{{ site.data.home.intro.btn }}</a> -->
         </div>
       </div>
     </header>
@@ -44,7 +45,7 @@ layout: default
     </section>
 
     <!-- Portfolio Grid -->
-    <section class="bg-light" id="portfolio">
+    <!-- <section class="bg-light" id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -73,9 +74,9 @@ layout: default
         {% assign ws = '' %}
         </div>
       </div>
-    </section>
-
-    <!-- About -->
+    </section> -->
+<!-- 
+    About
     <section id="about">
       <div class="container">
         <div class="row">
@@ -116,7 +117,7 @@ layout: default
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Team -->
     <section class="bg-light" id="team">
@@ -160,7 +161,7 @@ layout: default
     </section>
 
     <!-- Clients -->
-    <section class="py-5">
+    <!-- <section class="py-5">
       <div class="container">
         <div class="row">
           {%- for client in site.data.home.clients -%}
@@ -174,7 +175,7 @@ layout: default
         {% assign ws = '' %}
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Contact -->
     <section id="contact">

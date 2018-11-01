@@ -1,4 +1,4 @@
-title: Agency - Start Bootstrap Theme
+title: EFpay. Payments reimagined
 description: ''
 author: ''
 
@@ -10,4 +10,4 @@ assets_path: ''
 collections:
   projects:
 
-theme: jekyll-theme-slate
+theme:  jekyll-theme-startbootstrap-agency
