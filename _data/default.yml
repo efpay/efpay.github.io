@@ -3,7 +3,7 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Services
+  - title: Benefits
     url: '#services'
   # - title: Portfolio
   #   url: '#portfolio'
